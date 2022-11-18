@@ -25,6 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![](https://github.com/tythegoat1/CodePath-BitFit-Project-6/blob/master/Project%205%20CodePath.gif)
 
 <img src='walkthrough3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
